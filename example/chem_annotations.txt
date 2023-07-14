@@ -1,0 +1,1026 @@
+CHEM_ID	COMP_ID	SUPER_PATHWAY	SUB_PATHWAY	HMDB	KEGG
+30	39583	Lipid	Mevalonate Metabolism	HMDB0000227	C02104
+49	1408	Amino Acid	Polyamine Metabolism	HMDB0001414	C00134
+50	485	Amino Acid	Polyamine Metabolism	HMDB0001257	C00315
+54	1527	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0011599	C02216
+55	27665	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0000699	C02918
+62	38395	Lipid	"Fatty Acid, Dihydroxy"	HMDB0004705	C14829
+71	437	Amino Acid	Tryptophan Metabolism	HMDB0000763	C05635
+72	37467	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0011616	C02353
+74	37139	Nucleotide	"Purine Metabolism, Guanine containing"	HMDB0011629	C06194
+93	528	Energy	TCA Cycle	HMDB0000208	C00026
+98	1417	Amino Acid	Tryptophan Metabolism	HMDB0000715	C01717
+112	531	Lipid	Mevalonate Metabolism	HMDB0000355	C03761
+114	1413	Amino Acid	Phenylalanine Metabolism	HMDB0000440	C05593
+136	22842	Lipid	Primary Bile Acid Metabolism	HMDB0000619	C00695
+141	1416	Amino Acid	Glutamate Metabolism	HMDB0000112	C00334
+144	541	Amino Acid	Phenylalanine Metabolism	HMDB0000020	C00642
+158	1418	Nucleotide	"Pyrimidine Metabolism, Thymine containing"	HMDB0000079	C00906
+171	3127	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0000157	C00262
+172	32352	Nucleotide	"Purine Metabolism, Guanine containing"	HMDB0000132	C00242
+179	38399	Lipid	"Fatty Acid, Dihydroxy"	HMDB0004704	C14828
+180	1105	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	"HMDB0006270,HMDB0000673"	C01595
+181	1645	Lipid	Medium Chain Fatty Acid	HMDB0000638	C02679
+182	1899	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0000232	C03722
+189	1498	Amino Acid	Lysine Metabolism	HMDB0001325	C03793
+192	37496	Amino Acid	Polyamine Metabolism	HMDB0002064	C02714
+194	2829	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0001015	C03145
+209	32342	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0000045	C00020
+211	1553	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0000101	C00559
+212	1419	Amino Acid	Polyamine Metabolism	HMDB0001173	C00170
+213	37114	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0004044	
+229	1110	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0001043	C00219
+231	1638	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0000517	C00062
+232	15497	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0000052	C03406
+234	443	Amino Acid	Alanine and Aspartate Metabolism	HMDB0000191	C00049
+235	1432	Amino Acid	Phenylalanine Metabolism	HMDB0000669	C05852
+240	32197	Amino Acid	Tyrosine Metabolism	HMDB0000755	C03672
+241	566	Amino Acid	Phenylalanine Metabolism	HMDB0000205	C00166
+244	55	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0000056	C00099
+250	2137	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0001008	C00500
+251	568	Cofactors and Vitamins	Biotin Metabolism	HMDB0000030	C00120
+252	1437	Energy	TCA Cycle	HMDB0000254	C00042
+254	542	Lipid	Ketone Bodies	"HMDB0000442,HMDB0000357,HMDB0000011"	"C03197,C01089"
+266	63	Lipid	Sterol	HMDB0000067	C00187
+267	34396	Lipid	Phospholipid Metabolism	HMDB0001565	C00588
+275	513	Amino Acid	Creatine Metabolism	HMDB0000562	C00791
+278	35637	Amino Acid	Glutathione Metabolism	HMDB0000078	C01419
+279	56	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000192	C00491
+282	2372	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"	HMDB0000095	C00055
+297	17747	Lipid	Sphingosines	HMDB0000252	C00319
+298	533	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"	HMDB0001202	C00239
+302	1114	Lipid	Secondary Bile Acid Metabolism	HMDB0000626	C04483
+310	15705	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000099	C02291
+311	15128	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000742	C00155
+313	17769	Lipid	Sphingolipid Synthesis	HMDB0000269	C00836
+314	12125	Lipid	Long Chain Saturated Fatty Acid	HMDB0000944	C08281
+327	2134	Cofactors and Vitamins	Riboflavin Metabolism	HMDB0001248	C00016
+330	1643	Energy	TCA Cycle	HMDB0000134	C00122
+338	587	Xenobiotics	Food Component/Plant	HMDB0000625	C00257
+339	396	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000661	C00489
+340	58	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0000123	C00037
+342	18476	Lipid	Primary Bile Acid Metabolism	HMDB0000138	C01921
+344	43802	Amino Acid	Creatine Metabolism	HMDB0000128	C00581
+348	1411	Nucleotide	"Purine Metabolism, Guanine containing"	HMDB0000085	C00330
+354	1574	Amino Acid	Histidine Metabolism	HMDB0000870	C00388
+355	59	Amino Acid	Histidine Metabolism	HMDB0000177	C00135
+358	590	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000965	C00519
+361	1123	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0000195	C00294
+363	1124	Lipid	Inositol Metabolism	HMDB0000211	C00137
+376	1125	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000172	"C06418,C00407,C16424"
+381	6146	Amino Acid	Lysine Metabolism	HMDB0000510	C00956
+382	47089	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0002757	C00506
+391	2132	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0000904	C00327
+392	1495	Amino Acid	Lysine Metabolism	HMDB0000279	C00449
+397	60	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000687	C00123
+405	1483	Lipid	Secondary Bile Acid Metabolism	HMDB0000761	C03990
+407	1301	Amino Acid	Lysine Metabolism	HMDB0003405	"C00739,C00047"
+409	1303	Energy	TCA Cycle	"HMDB0031518,HMDB0000156,HMDB0000744"	"C00149,C00711,C00497"
+415	1302	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000696	C00073
+418	1496	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	HMDB0000202	C02170
+424	1336	Lipid	Long Chain Saturated Fatty Acid	HMDB0000220	C00249
+432	594	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0001406	C00153
+437	12035	Lipid	Medium Chain Fatty Acid	HMDB0000847	C01601
+439	1358	Lipid	Long Chain Saturated Fatty Acid	HMDB0000827	C01530
+444	1493	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0000214	C00077
+445	1505	Nucleotide	"Pyrimidine Metabolism, Orotate containing"	HMDB0000226	C00295
+452	33447	Lipid	Long Chain Monounsaturated Fatty Acid	HMDB0003229	C08362
+460	64	Amino Acid	Phenylalanine Metabolism	HMDB0000159	C00079
+461	42109	Energy	Oxidative Phosphorylation	HMDB0001429	C00009
+469	1510	Lipid	Sphingolipid Synthesis	HMDB0004610	C12144
+480	1898	Amino Acid	Urea cycle; Arginine and Proline Metabolism	"HMDB0000162,HMDB0003411"	"C00148,C000763"
+482	527	Carbohydrate	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	HMDB0000190	C00186
+491	1651	Cofactors and Vitamins	Vitamin B6 Metabolism	HMDB0001545	C00250
+498	1806	Cofactors and Vitamins	Vitamin A Metabolism	HMDB0000305	C00473
+500	1827	Cofactors and Vitamins	Riboflavin Metabolism	HMDB0000244	C00255
+501	1515	Xenobiotics	Drug - Topical Agents	HMDB0001895	C00805
+503	1648	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0000187	C00065
+504	2342	Amino Acid	Tryptophan Metabolism	HMDB0000259	C00780
+507	603	Amino Acid	Polyamine Metabolism	HMDB0001256	C00750
+512	2125	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000251	C00245
+519	1365	Lipid	Long Chain Saturated Fatty Acid	HMDB0000806	C06424
+523	15798	Cofactors and Vitamins	Thiamine Metabolism	HMDB0002666	C01081
+535	606	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0000296	C00299
+536	52602	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0000012	C00526
+537	607	Amino Acid	Histidine Metabolism	HMDB0000301	C00785
+561	57	Amino Acid	Glutamate Metabolism	HMDB0000148	"C00025,C00217"
+563	53	Amino Acid	Glutamate Metabolism	HMDB0000641	C00064
+564	1284	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0000167	C00188
+565	54	Amino Acid	Tryptophan Metabolism	HMDB0000929	C00078
+566	1649	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000883	C00183
+567	1504	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0001488	C00253
+568	2150	Cofactors and Vitamins	Vitamin B6 Metabolism	HMDB0001431	C00534
+572	48152	Carbohydrate	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	HMDB0000122	C00031
+798	555	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0000050	C00212
+799	3141	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0000043	C00719
+800	1868	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000574	C00097
+803	48153	Carbohydrate	"Fructose, Mannose and Galactose Metabolism"	HMDB0000169	"C00159,C02209,C00936"
+806	5086	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0000092	C03626
+811	1126	Amino Acid	Alanine and Aspartate Metabolism	HMDB0000161	C00041
+815	1299	Amino Acid	Tyrosine Metabolism	HMDB0000158	C00082
+818	15872	Lipid	Fatty Acid Synthesis	HMDB0000691	C00383
+821	33442	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0000767	C02067
+823	48990	Carbohydrate	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	HMDB0000243	C00022
+825	605	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0000300	C00106
+826	15581	Carbohydrate	Pentose Metabolism	HMDB0000098	C00181
+827	514	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"	HMDB0000089	C00475
+828	575	Carbohydrate	Pentose Metabolism	HMDB0029942	C00216
+872	2183	Nucleotide	"Pyrimidine Metabolism, Thymine containing"	HMDB0000273	C00214
+873	5341	Cofactors and Vitamins	Thiamine Metabolism	HMDB0000235	"DG00125,C00378,D08580"
+878	48195	Carbohydrate	"Fructose, Mannose and Galactose Metabolism"	HMDB0000660	C00095
+880	554	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0000034	C00147
+881	573	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"	HMDB0000630	C00380
+882	604	Nucleotide	"Pyrimidine Metabolism, Thymine containing"	HMDB0000262	C00178
+888	1642	Lipid	Medium Chain Fatty Acid	HMDB0000511	C01571
+891	1121	Lipid	Long Chain Saturated Fatty Acid	HMDB0002259	
+892	1356	Lipid	Long Chain Saturated Fatty Acid	HMDB0000772	C16535
+893	1118	Lipid	Long Chain Saturated Fatty Acid	HMDB0002212	C06425
+913	15586	Carbohydrate	Glycogen Metabolism	HMDB0000163	C00208
+914	1471	Carbohydrate	Pentose Metabolism	HMDB0000283	C00121
+917	512	Amino Acid	Alanine and Aspartate Metabolism	HMDB0000168	C00152
+918	15587	Carbohydrate	Aminosugar Metabolism	"HMDB0000174,HMDB0029196"	"C01019,C01018"
+922	1759	Lipid	Dihydroceramides		
+923	601	Nucleotide	"Pyrimidine Metabolism, Orotate containing"	HMDB03349	C00337
+925	1644	Lipid	Medium Chain Fatty Acid	HMDB0000666	C17714
+926	32489	Lipid	Medium Chain Fatty Acid	HMDB0000535	C01585
+932	32492	Lipid	Medium Chain Fatty Acid	HMDB0000482	C06423
+935	1519	Carbohydrate	Disaccharides and Oligosaccharides	HMDB0000258	C00089
+936	608	Cofactors and Vitamins	Vitamin B6 Metabolism	HMDB0000239	D08454
+1001	32306	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0000725	C01157
+1002	1107	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0000462	"C02348,C01551,C02350"
+1003	1117	Carbohydrate	"Fructose, Mannose and Galactose Metabolism"	HMDB0000107	C01697
+1004	3147	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0000292	C00385
+1021	1494	Amino Acid	Glutathione Metabolism	HMDB0000267	"C02237,C01879"
+1022	1512	Amino Acid	Tryptophan Metabolism	HMDB0002243	C10164
+1023	1516	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0000271	C00213
+1024	1508	Cofactors and Vitamins	Pantothenate and CoA Metabolism	HMDB0000210	C00864
+1025	1444	Amino Acid	Lysine Metabolism		
+1049	21106	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"	HMDB0002894	C02376
+1052	1572	Carbohydrate	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	"HMDB0000139,HMDB0006372"	C00258
+1053	3155	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0000026	C02642
+1082	1587	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0011756	C02710
+1083	1589	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0011745	C02712
+1084	1591	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0011757	
+1087	1552	Lipid	Long Chain Monounsaturated Fatty Acid	HMDB0002068	C08316
+1090	43807	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0000054	C00486
+1095	6104	Amino Acid	Tryptophan Metabolism	HMDB0000303	C00398
+1099	1573	Nucleotide	"Purine Metabolism, Guanine containing"	HMDB0000133	C00387
+1102	2734	Peptide	Gamma-glutamyl Amino Acid	HMDB0011741	
+1105	1561	Cofactors and Vitamins	Tocopherol Metabolism	HMDB0001893	C02477
+1107	1586	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0001890	C06809
+1108	1594	Nucleotide	"Pyrimidine Metabolism, Orotate containing"	HMDB0000828	C00438
+1110	1585	Amino Acid	Alanine and Aspartate Metabolism	HMDB0000766	C02847
+1113	1558	Amino Acid	Polyamine Metabolism	HMDB0003681	C02946
+1114	1566	Nucleotide	"Pyrimidine Metabolism, Thymine containing"	HMDB0002166	C05145
+1115	1568	Xenobiotics	Benzoate Metabolism	HMDB0000822	C03198
+1124	1564	Energy	TCA Cycle	HMDB0000094	C00158
+1133	1603	Amino Acid	Tyrosine Metabolism	HMDB0000306	C00483
+1134	1604	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0000289	C00366
+1136	33443	Lipid	Short Chain Fatty Acid	HMDB0000892	C00803
+1137	38102	Lipid	Endocannabinoid	HMDB0002088	
+1140	2730	Peptide	Gamma-glutamyl Amino Acid	HMDB0011738	C05283
+1141	1669	Amino Acid	Tyrosine Metabolism	HMDB0000707	C01179
+1143	40605	Lipid	Short Chain Fatty Acid	HMDB0000039	C00246
+1162	32377	Carbohydrate	Aminosugar Metabolism	HMDB0000230	C00270
+1207	12142	Amino Acid	Phenylalanine Metabolism	HMDB0012275	C05332
+1215	48149	Carbohydrate	Aminosugar Metabolism	HMDB0000489	C04540
+1216	35469	Carbohydrate	Aminosugar Metabolism	HMDB01104	C01239
+1221	27718	Amino Acid	Creatine Metabolism	HMDB0000064	C00300
+1231	17805	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0005060	C16525
+1235	18245	Peptide	Gamma-glutamyl Amino Acid	HMDB0029151	
+1239	17945	Lipid	"Fatty Acid, Monohydroxy"	HMDB0062549	"C03042,C03045"
+1242	15650	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0003331	C02494
+1248	12023	Nucleotide	"Pyrimidine Metabolism, Thymine containing"	HMDB0001227	C00364
+1254	15122	Lipid	Glycerolipid Metabolism	HMDB0000131	C00116
+1256	15506	Lipid	Phospholipid Metabolism	HMDB0000097	C00114
+1258	57746	Amino Acid	Tryptophan Metabolism	HMDB0001123	C00108
+1268	18369	Peptide	Gamma-glutamyl Amino Acid	HMDB0011171	
+1276	17665	Xenobiotics	Benzoate Metabolism	HMDB0011718	C00633
+1442	12129	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000754	
+1488	32463	Lipid	Endocannabinoid	HMDB0004080	C11695
+1489	38165	Lipid	Endocannabinoid	HMDB0002100	C16512
+1518	44877	Lipid	Ceramides	HMDB0004949	
+1526	19263	Lipid	Phosphatidylethanolamine (PE)	HMDB0005320	
+1537	42446	Lipid	Phosphatidylcholine (PC)	HMDB0007973	
+1538	19503	Lipid	Sphingomyelins	HMDB0001348	C00550
+1539	52461	Lipid	Phosphatidylcholine (PC)	HMDB0007972	C13875
+1547	54979	Lipid	Ceramides	HMDB0004950	
+1548	12358	Cofactors and Vitamins	Tetrahydrobiopterin Metabolism	HMDB0000468	C06313
+1629	18494	Lipid	Primary Bile Acid Metabolism	HMDB0000951	C05465
+1648	18497	Lipid	Primary Bile Acid Metabolism	HMDB0000036	C05122
+1668	12261	Lipid	Secondary Bile Acid Metabolism	HMDB0000896	C05463
+2029	18362	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000784	C08261
+2050	18467	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0001999	C06428
+2051	15745	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0001844	
+2053	15729	Energy	TCA Cycle	HMDB0031193	C19806
+2054	15765	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000622	
+100000007	15500	Lipid	Carnitine Metabolism	HMDB0000062	"C00487,C00308"
+100000008	15778	Xenobiotics	Benzoate Metabolism	HMDB0001870	C00180
+100000010	15749	Xenobiotics	Benzoate Metabolism	HMDB0000764	C05629
+100000011	57745	Amino Acid	Phenylalanine Metabolism	HMDB0000209	C07086
+100000015	15679	Amino Acid	Tryptophan Metabolism	HMDB0000881	C02470
+100000016	15730	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000893	C08278
+100000036	15676	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000491	"C03465,C06008,C00671"
+100000039	18374	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0002005	C02989
+100000044	15747	Amino Acid	Histidine Metabolism	HMDB0000194	C01262
+100000054	15685	Amino Acid	Lysine Metabolism	HMDB0000450	C16741
+100000096	15681	Amino Acid	Guanidino and Acetamido Metabolism	HMDB0003464	C01035
+100000098	27673	Cofactors and Vitamins	Thiamine Metabolism	HMDB0032985	C04294
+100000101	15704	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000857	C02656
+100000103	15496	Amino Acid	Polyamine Metabolism	HMDB0001432	C00179
+100000115	15130	Xenobiotics	Bacterial/Fungal	HMDB0001370	"C00680,C0666"
+100000125	15949	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"	HMDB0000014	C00881
+100000135	15076	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0000071	C05512
+100000146	15135	Xenobiotics	Food Component/Plant	HMDB0033161	
+100000251	15797	Cofactors and Vitamins	Riboflavin Metabolism	HMDB0001520	C00061
+100000257	15443	Carbohydrate	Aminosugar Metabolism	HMDB0000127	C16245
+100000258	43847	Lipid	Glycerolipid Metabolism	HMDB0000126	C0093
+100000263	15716	Amino Acid	Histidine Metabolism	HMDB0002320	C05568
+100000265	15140	Amino Acid	Tryptophan Metabolism	HMDB0000684	C00328
+100000269	15990	Lipid	Phospholipid Metabolism	HMDB0000086	C00670
+100000272	15142	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0004041	C05519
+100000282	15720	Amino Acid	Glutamate Metabolism	HMDB0001138	C00624
+100000283	18354	Carbohydrate	Aminosugar Metabolism	HMDB0060493	C02713
+100000285	32984	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0003357	C00437
+100000292	39321	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0000241	C02191
+100000295	15336	Xenobiotics	Food Component/Plant	"HMDB0000956,HMDB0062642"	"C00552,C02107,C00898"
+100000299	15136	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0000299	C01762
+100000406	15772	Carbohydrate	Pentose Metabolism	"HMDB0002917,HMDB0001851,HMDB0000568,HMDB0000508"	"C00379,C01904,C00474,C00532"
+100000409	15667	Xenobiotics	Food Component/Plant	HMDB0000402	C02504
+100000436	18477	Lipid	Secondary Bile Acid Metabolism	HMDB00631	C05464
+100000442	18335	Xenobiotics	Food Component/Plant	HMDB0003072	C00296
+100000447	18280	Amino Acid	Tyrosine Metabolism	HMDB0000152	C00628
+100000454	18319	Amino Acid	Lysine Metabolism	HMDB0003355	C00431
+100000458	18351	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0000719	C00263
+100000463	18349	Amino Acid	Tryptophan Metabolism	HMDB0000671	C02043
+100000485	46333	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0000905	C00360
+100000487	18357	Peptide	Dipeptide	HMDB0028854	
+100000491	33422	Peptide	Gamma-glutamyl Amino Acid	HMDB0000594	
+100000551	22116	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000695	C00233
+100000580	20675	Carbohydrate	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	HMDB0002712	C07326
+100000631	19385	Lipid	Ceramides	HMDB0004948	
+100000641	52448	Lipid	Phosphatidylglycerol (PG)		
+100000652	52625	Lipid	Phosphatidylglycerol (PG)	HMDB0010570	
+100000656	19324	Lipid	Lysophospholipid	HMDB0240261	
+100000657	19130	Lipid	Phosphatidylcholine (PC)	HMDB0000564	D03585
+100000665	44675	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0002183	C06429
+100000672	19258	Lipid	Phosphatidylcholine (PC)	HMDB0007869	
+100000700	21365	Carbohydrate	Aminosugar Metabolism	HMDB0000814	C04132
+100000706	22132	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	"HMDB0000665,HMDB00746,HMDB0000624"	C03264
+100000707	20676	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000176	C01384
+100000708	44656	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000718	C08262
+100000715	48114	Amino Acid	Guanidino and Acetamido Metabolism	HMDB0001522	C02294
+100000772	48118	Lipid	Mevalonate Metabolism	HMDB0006024	
+100000773	22001	Lipid	"Fatty Acid, Monohydroxy"	HMDB0001954	C20793
+100000774	22130	Amino Acid	Phenylalanine Metabolism	"HMDB0000779,HMDB0000563"	C05607
+100000776	44681	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"	HMDB0000222	C02990
+100000781	32328	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)"	HMDB0000756	
+100000787	22185	Amino Acid	Alanine and Aspartate Metabolism	HMDB0000812	C01042
+100000800	22114	Amino Acid	Tryptophan Metabolism	HMDB0000734	
+100000802	32198	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Short Chain)"	HMDB0000201	C02571
+100000805	22117	Xenobiotics	Chemical		
+100000808	22176	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000731	C05824
+100000809	27680	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0002658	C01020
+100000827	21127	Lipid	Monoacylglycerol	HMDB0011564	
+100000837	20691	Xenobiotics	Chemical	HMDB0004437	C06772
+100000840	20693	Xenobiotics	Food Component/Plant	HMDB0035227	C02287
+100000841	20694	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	HMDB0002329	C00209
+100000869	21150	Xenobiotics	Food Component/Plant	HMDB0032616	C00482
+100000873	20758	Xenobiotics	Food Component/Plant	HMDB0002545	C08348
+100000920	44663	Xenobiotics	Food Component/Plant	HMDB0002670	C00509
+100000923	21183	Lipid	Sterol	HMDB0000937	C05442
+100000924	21184	Lipid	Monoacylglycerol	HMDB0011567	
+100000935	21189	Xenobiotics	Food Component/Plant	HMDB0002124	C01477
+100000936	44526	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000019	C00141
+100000943	21232	Lipid	Monoacylglycerol	HMDB0011537	
+100000956	21239	Lipid	"Fatty Acid, Monohydroxy"	HMDB0061914	
+100000963	22138	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0000679	C02427
+100000987	32506	Lipid	Monoacylglycerol	HMDB0011538	
+100000989	22202	Xenobiotics	Chemical	HMDB0032538	C06771
+100001006	27710	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0000532	
+100001007	27731	Carbohydrate	Pentose Metabolism	HMDB0000867	C01685
+100001020	27553	Lipid	Sterol	HMDB0000878	C01694
+100001022	27738	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	"HMDB0062620,HMDB0000943"	C01620
+100001026	27719	Carbohydrate	"Fructose, Mannose and Galactose Metabolism"	HMDB0000565	"C00880,C15930"
+100001033	27414	Lipid	Sterol	HMDB0000852	C01753
+100001034	27513	Amino Acid	Tryptophan Metabolism	HMDB0000197	C00954
+100001040	27447	Lipid	Monoacylglycerol	HMDB0011568	
+100001048	33419	Lipid	Monoacylglycerol	HMDB0011533	
+100001051	30460	Amino Acid	Histidine Metabolism	HMDB0000001	C01152
+100001054	32412	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	HMDB0002013	C02862
+100001062	43835	Lipid	Secondary Bile Acid Metabolism	HMDB00502	
+100001063	31904	Lipid	Secondary Bile Acid Metabolism	HMDB0000391	
+100001065	31889	Lipid	Secondary Bile Acid Metabolism	HMDB0000722	C02592
+100001066	31885	Lipid	Primary Bile Acid Metabolism	HMDB0000415	C17726
+100001067	31891	Lipid	Secondary Bile Acid Metabolism	HMDB00502	
+100001068	46336	Lipid	Secondary Bile Acid Metabolism		
+100001070	31906	Lipid	Secondary Bile Acid Metabolism		
+100001083	32405	Amino Acid	Tryptophan Metabolism	HMDB0002302	
+100001092	32401	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0000875	C01004
+100001102	32388	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000623	C02678
+100001103	33487	Amino Acid	Glutamate Metabolism	HMDB0061715	
+100001104	32390	Amino Acid	Tyrosine Metabolism	HMDB0000866	
+100001112	32457	Lipid	"Fatty Acid, Monohydroxy"	HMDB0000387	
+100001121	31555	Cofactors and Vitamins	Vitamin B6 Metabolism	HMDB0000017	C00847
+100001125	31530	Peptide	Dipeptide	HMDB0029068	
+100001126	43829	Peptide	Gamma-glutamyl Amino Acid	HMDB0011172	
+100001133	32395	Nucleotide	"Purine Metabolism, Guanine containing"	HMDB0003282	
+100001143	31936	Lipid	"Fatty Acid, Monohydroxy"	HMDB0000325	
+100001145	31943	Lipid	"Fatty Acid, Monohydroxy"	HMDB0000350	
+100001153	31934	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000321	C02360
+100001162	32452	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	HMDB0000824	C03017
+100001181	32504	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	"HMDB0006528,HMDB0001976"	C16513
+100001182	32415	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0061714	C16533
+100001198	32418	Lipid	Long Chain Monounsaturated Fatty Acid	HMDB0002000	C08322
+100001204	43831	Amino Acid	Histidine Metabolism	HMDB0000898	C05127
+100001207	32349	Amino Acid	Histidine Metabolism	HMDB0002024	C02835
+100001208	32350	Amino Acid	Histidine Metabolism	HMDB0002820	C05828
+100001211	32398	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000792	C08277
+100001216	33418	Cofactors and Vitamins	Tocopherol Metabolism	HMDB0002902	C14151
+100001219	32453	Xenobiotics	Food Component/Plant	HMDB0003312	C10208
+100001221	32448	Xenobiotics	Food Component/Plant	HMDB0003217	C06563
+100001222	34024	Xenobiotics	Food Component/Plant	HMDB0005781	C14536
+100001226	32426	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0004157	C05789
+100001229	33969	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0006547	C16300
+100001232	33968	Lipid	Medium Chain Fatty Acid	HMDB0000529	
+100001250	33983	Lipid	Primary Bile Acid Metabolism	HMDB0000932	
+100001253	33943	Amino Acid	Glutamate Metabolism	HMDB0006029	C02716
+100001254	33959	Amino Acid	Tryptophan Metabolism	HMDB0013713	C03137
+100001256	33950	Amino Acid	Phenylalanine Metabolism	HMDB0000512	C03519
+100001257	33942	Amino Acid	Alanine and Aspartate Metabolism	HMDB0006028	
+100001258	34398	Peptide	Dipeptide	HMDB0000759	C02155
+100001262	33934	Peptide	Gamma-glutamyl Amino Acid	HMDB0003869	
+100001263	33955	Lipid	Lysophospholipid	HMDB0010382	C04102
+100001266	33953	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0004620	C02562
+100001269	33997	Lipid	Sterol	HMDB0002869	C01789
+100001270	33952	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"	HMDB000506	
+100001271	33961	Lipid	Lysophospholipid	HMDB0010384	
+100001272	48258	Lipid	Lysophospholipid	HMDB0002815	C03916
+100001274	33939	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0062557	
+100001276	33967	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0061684	
+100001277	33972	Lipid	Long Chain Monounsaturated Fatty Acid	HMDB0013622	
+100001278	33971	Lipid	Long Chain Monounsaturated Fatty Acid	HMDB0060038	
+100001279	34093	Lipid	Secondary Bile Acid Metabolism	HMDB0000760	C17649
+100001280	34092	Lipid	Primary Bile Acid Metabolism	HMDB0000506	C17647
+100001293	33946	Amino Acid	Histidine Metabolism	HMDB0032055	C02997
+100001294	33949	Peptide	Gamma-glutamyl Amino Acid	HMDB0011667	
+100001295	33947	Peptide	Gamma-glutamyl Amino Acid	HMDB0029160	
+100001296	34384	Xenobiotics	Food Component/Plant	HMDB0004827	C10172
+100001300	46537	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000407	
+100001310	33013	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0000855	C03150
+100001313	44872	Peptide	Gamma-glutamyl Amino Acid	HMDB0029155	
+100001314	33364	Peptide	Gamma-glutamyl Amino Acid	HMDB0029159	
+100001315	36103	Xenobiotics	Benzoate Metabolism	HMDB0011635	
+100001316	33471	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0006809	C05841
+100001320	42420	Carbohydrate	Aminosugar Metabolism	HMDB0000613	
+100001334	34387	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0094701	
+100001335	33587	Lipid	Long Chain Monounsaturated Fatty Acid	"HMDB0002231,HMDB0062436"	C16526
+100001337	34035	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	"HMDB0003073,HMDB0001388"	"C06426,C06427"
+100001359	46173	Energy	TCA Cycle	"HMDB0000958,HMDB000072"	"C004174,C02341"
+100001386	41754	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0003178	C00032
+100001391	34409	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"	HMDB0000848	
+100001392	34534	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)"	HMDB000225	
+100001395	34419	Lipid	Lysophospholipid	HMDB0010386	C04100
+100001409	48351	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0002721	
+100001411	35101	Xenobiotics	Food Component/Plant	HMDB0013222	C03065
+100001412	35137	Nucleotide	"Purine Metabolism, Guanine containing"	HMDB0004824	
+100001415	35157	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0041623	
+100001416	35172	Nucleotide	"Pyrimidine Metabolism, Orotate containing"	HMDB0000788	
+100001417	35126	Peptide	Acetylated Peptides	HMDB0006344	C04148
+100001423	35527	Xenobiotics	Benzoate Metabolism	HMDB0013678	
+100001425	61833	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0000497	
+100001429	34391	Lipid	Monoacylglycerol		
+100001431	47898	Lipid	Monoacylglycerol		
+100001433	34397	Lipid	Monoacylglycerol	HMDB11578	C13857
+100001435	34393	Lipid	Monoacylglycerol	HMDB0011569	
+100001436	34381	Lipid	Sphingolipid Synthesis	HMDB01480	C02934
+100001446	35136	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0000884	
+100001452	35107	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB00678	
+100001454	62915	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000413	
+100001456	35114	Nucleotide	"Purine Metabolism, Guanine containing"	HMDB0000897	C02242
+100001461	42398	Lipid	Lysophospholipid	HMDB0011130	
+100001462	34437	Lipid	Lysophospholipid		
+100001468	40469	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0004193	C05842
+100001469	57584	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0004194	C05843
+100001481	35153	Lipid	Monoacylglycerol	HMDB0011587	
+100001485	34457	Peptide	Gamma-glutamyl Amino Acid	HMDB0011170	
+100001491	37123	Carbohydrate	Aminosugar Metabolism	HMDB0000833	C03410
+100001492	35158	Carbohydrate	Aminosugar Metabolism	HMDB0003556	C01674
+100001495	57555	Cofactors and Vitamins	Pantothenate and CoA Metabolism	HMDB0003426	C00831
+100001501	35160	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"	HMDB0005065	
+100001506	35129	Cofactors and Vitamins	Tetrahydrobiopterin Metabolism	HMDB0000038	C00268
+100001510	32553	Amino Acid	Tyrosine Metabolism	HMDB0060015	C02180
+100001511	33230	Lipid	Lysophospholipid	HMDB0010383	
+100001526	37059	Lipid	Fatty Acid Synthesis	HMDB0002095	
+100001540	46225	Partially Characterized Molecules	Partially Characterized Molecules		
+100001541	36746	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000317	
+100001542	35630	Xenobiotics	Food Component/Plant	HMDB0000954	C01494
+100001562	35253	Lipid	Lysophospholipid	HMDB0061702	
+100001567	35631	Lipid	Lysophospholipid	HMDB0011503	
+100001569	35628	Lipid	Lysophospholipid	HMDB0011506	
+100001570	36600	Lipid	Lysophospholipid	HMDB0011507	
+100001571	35186	Lipid	Lysophospholipid	HMDB0011517	
+100001577	48434	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0000856	"C15532,C02851"
+100001580	37478	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0001976	C16513
+100001586	46957	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	HMDB0003290	C00800
+100001593	44664	Amino Acid	Lysine Metabolism	HMDB0013130	
+100001594	35433	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"		
+100001604	35322	Xenobiotics	Drug - Topical Agents	HMDB0240263	C00530
+100001605	35320	Xenobiotics	Benzoate Metabolism	HMDB0059724	
+100001606	35324	Lipid	Sterol	HMDB00653	C18043
+100001613	35669	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000872	
+100001614	35678	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000672	C19615
+100001617	42395	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000888	
+100001618	35625	Lipid	Monoacylglycerol	HMDB0011561	C01885
+100001619	48857	Lipid	Glycerolipid Metabolism	HMDB0240316	C03274
+100001620	37455	Lipid	Phospholipid Metabolism	HMDB0000114	C01233
+100001621	52307	Lipid	Phospholipid Metabolism		
+100001622	35632	Xenobiotics	Benzoate Metabolism	HMDB0041683	C03080
+100001624	35635	Xenobiotics	Benzoate Metabolism	HMDB0000375	C11457
+100001625	36807	Lipid	Secondary Bile Acid Metabolism	HMDB0000811	C15515
+100001628	35649	Carbohydrate	Pentose Phosphate Pathway	HMDB0001068	C05382
+100001634	35639	Xenobiotics	Food Component/Plant	HMDB0000484	C06672
+100001635	35651	Xenobiotics	Chemical		C06231
+100001655	35305	Lipid	Lysophospholipid	HMDB0061695	
+100001662	36747	Lipid	Carnitine Metabolism	HMDB0001161	C01181
+100001664	48130	Nucleotide	"Purine Metabolism, Adenine containing"	HMDB0000912	
+100001668	61868	Amino Acid	Histidine Metabolism	HMDB0002331	C05131
+100001670	36810	Lipid	Lysophospholipid	HMDB0062319	
+100001671	36812	Lipid	Lysophospholipid		
+100001675	36770	Xenobiotics	Food Component/Plant	HMDB0002035	C00811
+100001679	36764	Xenobiotics	Food Component/Plant		C02637
+100001689	35879	Xenobiotics	Food Component/Plant		C18021
+100001718	35892	Xenobiotics	Benzoate Metabolism	HMDB0029649	
+100001721	36751	Amino Acid	Lysine Metabolism	HMDB0000446	C12989
+100001725	36774	Xenobiotics	Food Component/Plant	HMDB0002209	C14131
+100001730	62952	Lipid	"Fatty Acid, Dihydroxy"	HMDB0000337	
+100001734	36752	Amino Acid	Lysine Metabolism	HMDB0000206	C02727
+100001739	35718	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0002925	C03242
+100001740	46142	Carbohydrate	"Fructose, Mannose and Galactose Metabolism"	"HMDB0000247,HMDB0000765"	"C00392,C00794"
+100001767	48428	Xenobiotics	Food Component/Plant	HMDB0033143	C21013
+100001768	36713	Carbohydrate	Advanced Glycation End-product	HMDB0240347	
+100001777	36602	Lipid	Lysophospholipid	HMDB0061693	
+100001778	36594	Lipid	Lysophospholipid		
+100001790	36659	Peptide	Dipeptide	HMDB0028844	
+100001805	37070	Nucleotide	Purine and Pyrimidine Metabolism	HMDB61711	
+100001810	36808	Amino Acid	Urea cycle; Arginine and Proline Metabolism	"HMDB0003334,HMDB0001539"	"C21189,C03626"
+100001819	37116	Xenobiotics	Food Component/Plant	HMDB0030847	C00974
+100001823	37069	Amino Acid	Alanine and Aspartate Metabolism	HMDB0094692	C02721
+100001825	37113	Xenobiotics	Food Component/Plant	HMDB0031715	C14314
+100001827	61857	Xenobiotics	Food Component/Plant		C05797
+100001843	37063	Peptide	Gamma-glutamyl Amino Acid	HMDB0029142	C03738
+100001851	37076	Amino Acid	"Glycine, Serine and Threonine Metabolism"	HMDB0002931	
+100001859	37112	Lipid	Inositol Metabolism	HMDB0240209	C19891
+100001860	37086	Lipid	Inositol Metabolism	HMDB0034219	C03844
+100001869	42450	Lipid	Phosphatidylcholine (PC)	HMDB0008048	
+100001870	42449	Lipid	Phosphatidylethanolamine (PE)	HMDB0005322	
+100001890	37093	Peptide	Dipeptide	HMDB0028691	
+100001919	37091	Xenobiotics	Food Component/Plant	HMDB0002085	C10833
+100001948	37058	Energy	TCA Cycle	HMDB0061717	
+100001950	32586	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism		
+100001951	47886	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0000488	C00486
+100001956	37431	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0094696	
+100001977	57591	Cofactors and Vitamins	Vitamin A Metabolism	HMDB0033844	C08591
+100001979	37502	Cofactors and Vitamins	Tocopherol Metabolism	HMDB0006327	C14153
+100001981	37501	Cofactors and Vitamins	Tocopherol Metabolism	HMDB0012958	C14155
+100001990	32807	Lipid	Secondary Bile Acid Metabolism		
+100002054	37508	Xenobiotics	Benzoate Metabolism	HMDB0013677	
+100002070	52294	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0059655	C02630
+100002102	37432	Nucleotide	"Pyrimidine Metabolism, Uracil containing"	HMDB0061880	C01073
+100002107	37506	Lipid	Sphingomyelins	HMDB0010169	
+100002113	37443	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0000996	C00606
+100002132	52987	Amino Acid	Polyamine Metabolism	HMDB0002172	C03413
+100002154	37459	Xenobiotics	Food Component/Plant	HMDB0003045	C05570
+100002185	38116	Amino Acid	Tryptophan Metabolism	HMDB0003320	C19837
+100002196	37752	Lipid	"Fatty Acid, Monohydroxy"	"HMDB0004670,HMDB0004667"	"C14767,C14762"
+100002204	43256	Amino Acid	Histidine Metabolism		
+100002227	38125	Lipid	Sterol	HMDB0000921	C00599
+100002249	43530	Amino Acid	Lysine Metabolism	HMDB0002284	
+100002254	38625	Lipid	Endocannabinoid	HMDB0013078	
+100002284	62950	Lipid	"Fatty Acid, Dihydroxy"	HMDB0002453	
+100002285	62951	Lipid	"Fatty Acid, Dihydroxy"	HMDB0000360	
+100002300	38159	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"	HMDB0002224	C03592
+100002328	38288	Cofactors and Vitamins	Tocopherol Metabolism	HMDB0034227	C13202
+100002356	38296	Lipid	"Fatty Acid, Branched"	HMDB0037397	
+100002367	63109	Lipid	"Fatty Acid, Dihydroxy"	HMDB0000498	
+100002397	62101	Amino Acid	Glutamate Metabolism	HMDB0001552	C00940
+100002398	38183	Xenobiotics	Food Component/Plant	HMDB0034301	C01746
+100002417	38276	Xenobiotics	Food Component/Plant	HMDB0012141	C04039
+100002458	57747	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0000522	
+100002500	43493	Amino Acid	Histidine Metabolism	HMDB0000854	C00439
+100002514	40473	Amino Acid	Histidine Metabolism	HMDB0001212	C05565
+100002528	46960	Xenobiotics	Chemical	HMDB01448	C00059
+100002568	40173	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0004159	C05793
+100002569	40084	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB04161	C05795
+100002619	53237	Carbohydrate	Pentose Metabolism	HMDB0003219	C02076
+100002749	39592	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0002108	
+100002769	57461	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0003148	
+100002873	49617	Lipid	Lysophospholipid	HMDB0010405	
+100002875	52474	Lipid	Lysoplasmalogen	HMDB0010407	
+100002910	62946	Amino Acid	Histidine Metabolism	HMDB04988	
+100002912	39378	Lipid	Secondary Bile Acid Metabolism	HMDB0000874	
+100002913	57573	Lipid	Secondary Bile Acid Metabolism	HMDB0000917	C17644
+100002914	39587	Xenobiotics	Benzoate Metabolism	HMDB0002199	C01744
+100002945	38768	Lipid	"Fatty Acid, Branched"	HMDB0061859	C16995
+100002951	39831	Lipid	"Fatty Acid, Dicarboxylate"		
+100002953	39609	Lipid	"Fatty Acid, Monohydroxy"	HMDB0006294	C18218
+100002959	40474	Xenobiotics	Food Component/Plant	HMDB0030667	C04293
+100002989	46798	Lipid	Diacylglycerol	HMDB0007219	
+100002990	46799	Lipid	Diacylglycerol	HMDB0007219	
+100002991	39791	Cofactors and Vitamins	Pantothenate and CoA Metabolism	HMDB0003828	C12661
+100003000	39270	Lipid	Lysoplasmalogen	HMDB0011152	
+100003001	39271	Lipid	Lysoplasmalogen		
+100003064	57345	Lipid	Galactosyl Glycerolipids	HMDB0006790	C05401
+100003070	39626	Xenobiotics	Food Component/Plant	HMDB0006101	C18165
+100003072	39630	Xenobiotics	Food Component/Plant	HMDB0005056	C18166
+100003109	40479	Xenobiotics	Food Component/Plant	HMDB0035514	
+100003119	39732	Lipid	Endocannabinoid		
+100003151	46223	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"	HMDB0006469	
+100003152	39577	Amino Acid	Glutamate Metabolism		C15987
+100003160	42994	Peptide	Dipeptide	HMDB0028801	
+100003169	40008	Peptide	Dipeptide	HMDB0028907	
+100003179	40010	Peptide	Dipeptide	HMDB0028922	
+100003183	48189	Peptide	Dipeptide	HMDB0028927	
+100003185	40045	Peptide	Dipeptide	HMDB0028929	
+100003196	40020	Peptide	Dipeptide	HMDB0028955	
+100003210	39994	Peptide	Dipeptide	HMDB0029131	
+100003236	40088	Xenobiotics	Food Component/Plant		C10276
+100003239	39835	Lipid	Endocannabinoid		
+100003240	39730	Lipid	Endocannabinoid		
+100003258	63990	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	HMDB0240294	
+100003260	40007	Amino Acid	Glutamate Metabolism	HMDB0002201	
+100003365	57565	Cofactors and Vitamins	Thiamine Metabolism		C01279
+100003397	40406	Lipid	Phospholipid Metabolism	HMDB0000925	C01104
+100003415	62860	Amino Acid	Lysine Metabolism	HMDB0002038	C02728
+100003425	40410	Amino Acid	Histidine Metabolism	HMDB0034174	
+100003429	40478	Xenobiotics	Food Component/Plant		
+100003432	40481	Xenobiotics	Food Component/Plant	HMDB0062121	
+100003434	40730	Amino Acid	Histidine Metabolism	HMDB0002271	
+100003493	41515	Amino Acid	Tyrosine Metabolism	HMDB0004284	C06044
+100003542	42027	Peptide	Dipeptide	HMDB0028878	
+100003588	41370	Peptide	Dipeptide	HMDB0028995	
+100003589	41374	Peptide	Dipeptide	HMDB0028988	
+100003598	41375	Peptide	Dipeptide	HMDB0029105	
+100003609	43028	Peptide	Dipeptide	HMDB0029083	
+100003640	42079	Peptide	Dipeptide	HMDB0029125	
+100003641	40475	Peptide	Dipeptide	HMDB0029127	
+100003674	40703	Peptide	Dipeptide	HMDB0011178	
+100003686	42092	Lipid	Fatty Acid Metabolism (Acyl Glycine)	HMDB0013034	
+100003695	62864	Xenobiotics	Food Component/Plant		
+100003712	40732	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0001553	C01180
+100003867	42081	Nucleotide	"Purine Metabolism, Adenine containing"		C03416
+100003869	43588	Lipid	Secondary Bile Acid Metabolism	HMDB0000874	
+100003884	57786	Xenobiotics	Food Component/Plant	HMDB0034864	C04720
+100003901	41220	Lipid	Lysophospholipid	HMDB0011129	
+100003926	43264	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"	HMDB0013127	
+100004035	43026	Xenobiotics	Food Component/Plant		C05324
+100004054	57512	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"	HMDB0006210	
+100004059	62278	Xenobiotics	Food Component/Plant		
+100004089	42489	Lipid	"Fatty Acid, Monohydroxy"	HMDB0094656	
+100004182	43507	Lipid	Secondary Bile Acid Metabolism	HMDB0000308	
+100004206	42975	Xenobiotics	Food Component/Plant		C06342
+100004216	43023	Cofactors and Vitamins	Pterin Metabolism	HMDB0000802	C00715
+100004251	42978	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0002001	
+100004290	43392	Amino Acid	Tyrosine Metabolism	HMDB0006050	
+100004295	43400	Xenobiotics	Food Component/Plant	HMDB0011749	
+100004299	43255	Amino Acid	Histidine Metabolism		
+100004318	43374	Xenobiotics	Food Component/Plant		C12312
+100004321	48691	Xenobiotics	Food Component/Plant		
+100004322	43266	Xenobiotics	Food Component/Plant	HMDB0061116	
+100004327	45966	Lipid	Lysophospholipid	HMDB0061698	
+100004328	42463	Lipid	Sphingomyelins	HMDB0012097	
+100004329	42459	Lipid	Sphingomyelins		
+100004434	43449	Xenobiotics	Food Component/Plant		
+100004481	43590	Xenobiotics	Food Component/Plant	HMDB0034649	C08983
+100004482	43589	Xenobiotics	Food Component/Plant	HMDB0034650	C12081
+100004483	54925	Xenobiotics	Food Component/Plant	HMDB0034651	C19865
+100004523	43249	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0003357	C00437
+100004542	43761	Lipid	"Fatty Acid, Amino"	HMDB0094649	
+100004561	43549	Amino Acid	Tryptophan Metabolism	HMDB0004089	C05653
+100004635	44878	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0062174	
+100004644	57771	Nucleotide	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	HMDB0013141	
+100005372	44621	Lipid	Lysoplasmalogen		
+100005373	46227	Amino Acid	Lysine Metabolism	HMDB0034879	
+100005384	45413	Xenobiotics	Chemical		
+100005389	47114	Xenobiotics	Food Component/Plant	HMDB0029200	
+100005391	45415	Xenobiotics	Benzoate Metabolism	HMDB0094710	
+100005463	45428	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"		
+100005466	48187	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0240253	
+100005716	45968	Lipid	Lysophospholipid		
+100005717	45970	Lipid	Lysophospholipid		
+100005805	46130	Lipid	Lysophospholipid		
+100005814	61826	Lipid	Endocannabinoid		
+100005852	47123	Lipid	"Fatty Acid, Monohydroxy"	HMDB0037396	C03195
+100005946	48141	Xenobiotics	Food Component/Plant	HMDB0001353	C00204
+100005972	47666	Cofactors and Vitamins	Tocopherol Metabolism		
+100005986	47153	Lipid	Sphingomyelins	HMDB0012107	
+100005996	61865	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"		
+100005998	61867	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"		
+100006051	48182	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"	HMDB0240588	
+100006056	48433	Amino Acid	Tyrosine Metabolism	HMDB0240317	
+100006115	48255	Carbohydrate	Pentose Metabolism	HMDB0000539	"C00502,C05411"
+100006121	48341	Lipid	Monoacylglycerol		
+100006122	48340	Carbohydrate	Pentose Metabolism	"HMDB0000621,HMDB0000751,HMDB0001644,HMDB0003371"	
+100006123	48679	Amino Acid	Histidine Metabolism	HMDB0013253	C05135
+100006124	48455	Amino Acid	Lysine Metabolism		
+100006290	48490	Lipid	Sphingomyelins	HMDB0012102	
+100006294	48492	Lipid	Sphingomyelins	HMDB0012103	
+100006295	48493	Lipid	Sphingomyelins	HMDB0012104	
+100006298	57330	Lipid	Sphingomyelins		
+100006314	52433	Lipid	Sphingomyelins		
+100006363	48728	Xenobiotics	Food Component/Plant		
+100006367	53230	Lipid	"Fatty Acid, Monohydroxy"	"HMDB0061652,HMDB0010718"	
+100006369	52340	Amino Acid	Alanine and Aspartate Metabolism		
+100006370	54805	Lipid	Sterol		C17333
+100006430	48885	Carbohydrate	Pentose Metabolism	"HMDB0001851,HMDB0000568,HMDB0002917"	"C00379,C00542,C01904"
+100006435	46539	Carbohydrate	Aminosugar Metabolism	"HMDB0000212,HMDB0000215"	C01074
+100006438	47076	Energy	TCA Cycle	"HMDB0000634,HMDB0000620"	"C02226,C02214"
+100006614	52988	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"	HMDB0061677	
+100006627	52990	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"		
+100006637	52973	Lipid	Primary Bile Acid Metabolism		
+100006643	52976	Lipid	Secondary Bile Acid Metabolism		
+100006726	52608	Lipid	Endocannabinoid	HMDB0012252	
+100008903	52603	Lipid	Phosphatidylcholine (PC)	HMDB0008138	
+100008904	52438	Lipid	Phosphatidylcholine (PC)	HMDB0008038	
+100008914	52462	Lipid	Phosphatidylcholine (PC)	HMDB0007982	C05208
+100008915	52610	Lipid	Phosphatidylcholine (PC)	HMDB0007991	
+100008916	52611	Lipid	Phosphatidylcholine (PC)	HMDB0008057	
+100008920	52615	Lipid	Sphingomyelins		
+100008921	52616	Lipid	Phosphatidylcholine (PC)	HMDB0007970	C03889
+100008928	52281	Amino Acid	Glutathione Metabolism	"HMDB0000729,HMDB00008"	"C21297,C05984"
+100008929	52282	Energy	TCA Cycle	"HMDB0003518,HMDB0000379"	C01251
+100008930	52285	Lipid	Long Chain Monounsaturated Fatty Acid	"HMDB0003231,HMDB0000573,HMDB0240219,HMDB0000207"	"C21944,C08367,C01712,C00712"
+100008932	63154	Peptide	Acetylated Peptides		
+100008934	52916	Lipid	"Fatty Acid, Monohydroxy"		
+100008952	52431	Lipid	Monoacylglycerol		
+100008953	52432	Lipid	Monoacylglycerol	HMDB0011534	
+100008954	52434	Lipid	Dihydrosphingomyelins	HMDB0010168	
+100008955	52436	Lipid	Sphingomyelins	HMDB0012105	
+100008957	52437	Lipid	Sphingomyelins		
+100008977	52447	Lipid	Phosphatidylethanolamine (PE)	HMDB0009003	C05210
+100008980	52452	Lipid	Phosphatidylcholine (PC)	HMDB0008039	
+100008981	52453	Lipid	Phosphatidylcholine (PC)	HMDB0008105	
+100008984	52470	Lipid	Phosphatidylcholine (PC)	HMDB0007969	
+100008985	52454	Lipid	Phosphatidylcholine (PC)		
+100008990	52464	Lipid	Phosphatidylethanolamine (PE)	HMDB0005323	C05210
+100008991	52465	Lipid	Phosphatidylethanolamine (PE)	HMDB0008946	
+100008998	52473	Cofactors and Vitamins	Tocopherol Metabolism	"HMDB0006335,HMDB0001492"	"C14152,C02483"
+100009002	52673	Lipid	Plasmalogen	HMDB0011352	
+100009005	52477	Lipid	Plasmalogen	HMDB0011342	
+100009007	52478	Lipid	Plasmalogen	HMDB0007996	
+100009014	52689	Lipid	Plasmalogen	HMDB0011220	
+100009025	52495	Lipid	Sphingomyelins		
+100009026	57331	Lipid	Dihydrosphingomyelins	HMDB0012091	
+100009027	57473	Lipid	Dihydrosphingomyelins	HMDB0012087	
+100009028	52604	Lipid	Dihydroceramides	HMDB11760	
+100009030	53010	Lipid	Lactosylceramides (LCER)		
+100009038	57365	Lipid	Dihydrosphingomyelins	HMDB0012085	
+100009052	52633	Lipid	Diacylglycerol	HMDB0007103	
+100009055	52634	Lipid	Diacylglycerol	HMDB0007103	
+100009056	52743	Nucleotide	Dinucleotide		
+100009057	52742	Nucleotide	Dinucleotide		
+100009058	52741	Nucleotide	Dinucleotide		
+100009060	52740	Nucleotide	Dinucleotide		
+100009061	52744	Nucleotide	Dinucleotide		
+100009062	52753	Nucleotide	Dinucleotide		
+100009063	52745	Nucleotide	Dinucleotide		
+100009064	52746	Nucleotide	Dinucleotide		
+100009078	52687	Lipid	Phosphatidylethanolamine (PE)	HMDB0005349	
+100009130	52697	Lipid	Phosphatidylcholine (PC)	HMDB0008123	
+100009131	52710	Lipid	Phosphatidylcholine (PC)	HMDB0008147	C05208
+100009204	57341	Lipid	Phosphatidylethanolamine (PE)	HMDB0008923	
+100009217	53174	Lipid	Phosphatidylethanolamine (PE)	HMDB0009093	
+100009232	53231	Xenobiotics	Chemical		
+100009233	52944	Lipid	Fatty Acid Metabolism (Acyl Choline)	HMDB0240592	
+100009239	54724	Energy	TCA Cycle		
+100009271	52984	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"	HMDB0013127	
+100009329	63590	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	HMDB0060649	
+100009331	53260	Lipid	Fatty Acid Metabolism (Acyl Choline)	HMDB0240596	
+100009343	53176	Lipid	Phosphatidylcholine (PC)	HMDB0008141	
+100009392	54892	Lipid	Galactosyl Glycerolipids	HMDB0011127	
+100009393	57651	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)		
+100009406	53223	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"		
+100009407	53224	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)"		
+100010869	57547	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"	HMDB0029576	
+100010872	54896	Lipid	Galactosyl Glycerolipids		
+100010873	54897	Lipid	Galactosyl Glycerolipids		
+100010874	54887	Lipid	Galactosyl Glycerolipids		
+100010877	54891	Lipid	Galactosyl Glycerolipids		C13871
+100010878	54898	Lipid	Galactosyl Glycerolipids		
+100010879	54899	Lipid	Galactosyl Glycerolipids		
+100010881	62376	Lipid	Galactosyl Glycerolipids		
+100010885	62372	Lipid	Galactosyl Glycerolipids		
+100010890	62374	Lipid	Galactosyl Glycerolipids		
+100010893	54901	Lipid	Galactosyl Glycerolipids		
+100010895	57554	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"		
+100010896	57655	Nucleotide	"Pyrimidine Metabolism, Uracil containing"		
+100010901	55015	Peptide	Gamma-glutamyl Amino Acid		
+100010917	54942	Lipid	Diacylglycerol	HMDB0007102	C13861
+100010919	54946	Lipid	Diacylglycerol	HMDB0007218	
+100010921	54947	Lipid	Diacylglycerol		
+100010923	54956	Lipid	Diacylglycerol	HMDB0007257	
+100010926	54963	Lipid	Diacylglycerol	HMDB0007249	
+100010927	54964	Lipid	Diacylglycerol	HMDB0007250	
+100010928	54949	Lipid	Diacylglycerol	HMDB0007266	
+100010929	54950	Lipid	Diacylglycerol	HMDB0007266	
+100010933	54952	Lipid	Diacylglycerol	HMDB0007278	
+100010937	54961	Lipid	Diacylglycerol	HMDB0007228	
+100010939	54965	Lipid	Diacylglycerol	"HMDB0007104,HMDB0007105"	
+100010940	54966	Lipid	Diacylglycerol		
+100010941	54968	Lipid	Diacylglycerol	HMDB0007248	
+100010942	54969	Lipid	Diacylglycerol	HMDB0007248	
+100015609	57416	Lipid	Ceramides		
+100015624	57372	Lipid	Ceramides		
+100015637	57663	Lipid	"Fatty Acid, Monohydroxy"	HMDB0061660	
+100015638	61698	Lipid	"Fatty Acid, Monohydroxy"		
+100015641	57664	Lipid	Endocannabinoid		
+100015642	57697	Lipid	Ceramides		
+100015666	57404	Lipid	Phospholipid Metabolism		
+100015684	57408	Lipid	Diacylglycerol	HMDB0007016	
+100015723	57428	Lipid	Sphingosines		
+100015724	57427	Lipid	Sphingosines		
+100015727	57437	Lipid	Ceramides		
+100015730	57457	Lipid	Hexosylceramides (HCER)		
+100015735	57432	Lipid	Ceramides		
+100015737	57434	Lipid	Ceramides		
+100015744	57443	Lipid	Ceramides		
+100015755	57440	Lipid	Ceramides		
+100015759	57464	Lipid	Fatty Acid Metabolism (Acyl Choline)		
+100015760	57463	Lipid	Fatty Acid Metabolism (Acyl Choline)	HMDB0013213	
+100015785	57810	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0013025	
+100015786	57476	Lipid	Dihydrosphingomyelins		
+100015797	57658	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)		
+100015831	57511	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"		
+100015833	57513	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"	HMDB0006460	
+100015834	57515	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"		
+100015837	57518	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"	HMDB0006455	
+100015838	57519	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"		
+100015839	57520	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)"		
+100015842	57522	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)"	HMDB0062517	
+100015853	57532	Lipid	Endocannabinoid		
+100015854	57534	Lipid	Endocannabinoid		
+100015855	57535	Lipid	Endocannabinoid		
+100015862	57541	Lipid	Endocannabinoid	HMDB0013648	
+100015863	57542	Lipid	Endocannabinoid		
+100015865	57544	Lipid	Sphingolipid Synthesis		C13915
+100015870	57597	Lipid	Sphingosines		
+100015962	57687	Amino Acid	Lysine Metabolism		
+100015965	63152	Xenobiotics	Food Component/Plant	HMDB0029968	
+100015966	57635	Cofactors and Vitamins	Vitamin A Metabolism		
+100015967	57636	Cofactors and Vitamins	Vitamin A Metabolism		
+100015968	57637	Cofactors and Vitamins	Vitamin A Metabolism		
+100015988	57774	Lipid	Secondary Bile Acid Metabolism	HMDB0000664	
+100016038	57814	Amino Acid	Polyamine Metabolism	"HMDB0002189,HMDB0001276"	"C01029,C00612"
+100016069	61769	Lipid	"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"	HMDB13326	
+100019761	62881	Lipid	Dihydroceramides	HMDB0010697	
+100019892	61700	Lipid	"Fatty Acid, Monohydroxy"		
+100019894	61699	Lipid	"Fatty Acid, Monohydroxy"	HMDB0039540	C17873
+100019915	61705	Nucleotide	"Pyrimidine Metabolism, Cytidine containing"	"HMDB0240312,HMDB0011692"	"C03104,C05822"
+100019953	62781	Lipid	"Fatty Acid, Branched"		
+100019960	61827	Lipid	"Fatty Acid, Monohydroxy"		
+100019968	61858	Carbohydrate	Pentose Metabolism		
+100019969	62869	Lipid	"Fatty Acid, Dicarboxylate"		
+100019972	61864	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000933	
+100019975	61862	Lipid	"Fatty Acid, Dicarboxylate"		
+100019978	61861	Lipid	"Fatty Acid, Dicarboxylate"		
+100019982	61860	Lipid	"Fatty Acid, Dicarboxylate"		
+100020207	62061	Xenobiotics	Food Component/Plant		
+100020214	62066	Lipid	Primary Bile Acid Metabolism		
+100020217	62947	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0240365	
+100020219	62863	Xenobiotics	Food Component/Plant	HMDB29737	C08493
+100020242	62105	Amino Acid	Polyamine Metabolism	HMDB0002172	C03413
+100020272	62857	Xenobiotics	Food Component/Plant	HMDB0041724	
+100020343	62850	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	HMDB0000560	
+100020361	62853	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0000323	
+100020371	63151	Amino Acid	Alanine and Aspartate Metabolism		
+100020372	63583	Xenobiotics	Food Component/Plant		
+100020377	64131	Xenobiotics	Food Component/Plant	HMDB0029968	
+100020378	63357	Lipid	"Fatty Acid, Dicarboxylate"	HMDB0000424	
+100020407	64041	Xenobiotics	Food Component/Plant	"HMDB0240506,HMDB0240505"	
+100020409	63687	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism		
+100020417	62862	Amino Acid	Lysine Metabolism	HMDB0013287	C05545
+100020419	62566	Amino Acid	Phenylalanine Metabolism		
+100020423	62562	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"		
+100020425	62559	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"		
+100020427	62558	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"		
+100020487	62309	Amino Acid	Polyamine Metabolism		
+100020513	62707	Amino Acid	Urea cycle; Arginine and Proline Metabolism		
+100020546	62954	Amino Acid	Lysine Metabolism		
+100020696	62373	Lipid	Galactosyl Glycerolipids		
+100020715	62383	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)		C16344
+100020723	62396	Nucleotide	Dinucleotide		
+100020724	62760	Nucleotide	Dinucleotide		
+100020725	62761	Nucleotide	Dinucleotide		
+100020727	62397	Nucleotide	Dinucleotide		
+100020728	62399	Nucleotide	Dinucleotide		
+100020729	62398	Nucleotide	Dinucleotide		
+100020769	62449	Lipid	Monoacylglycerol		
+100020837	63042	Xenobiotics	Drug - Topical Agents	HMDB0013676	
+100020840	62746	Lipid	Endocannabinoid	HMDB0013624	
+100020845	62785	Lipid	Secondary Bile Acid Metabolism		
+100020859	63118	Lipid	Secondary Bile Acid Metabolism	HMDB0000328	
+100020860	63119	Lipid	Secondary Bile Acid Metabolism	HMDB0062742	
+100020893	62805	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0240388	
+100021000	62851	Lipid	Sphingomyelins		
+100021071	64558	Cofactors and Vitamins	Vitamin D Metabolism		
+100021092	62887	Xenobiotics	Food Component/Plant		
+100021105	62923	Lipid	"Fatty Acid, Dicarboxylate"		
+100021123	62959	Amino Acid	Lysine Metabolism		
+100021194	63155	Xenobiotics	Food Component/Plant		
+100021196	64578	Amino Acid	Urea cycle; Arginine and Proline Metabolism		
+100021199	63060	Lipid	Sterol		
+100021220	63678	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"		
+100021223	63224	Lipid	Endocannabinoid		
+100021236	63037	Lipid	Sphingolipid Synthesis	HMDB0038057	
+100021237	63038	Lipid	Dihydroceramides		
+100021256	63342	Xenobiotics	Benzoate Metabolism	HMDB0125533	
+100021277	63160	Amino Acid	Tryptophan Metabolism		
+100021372	63739	Amino Acid	"Methionine, Cysteine, SAM and Taurine Metabolism"	HMDB0037115	
+100021376	63670	Lipid	Fatty Acid Metabolism (Acyl Glycine)		
+100021467	63264	Partially Characterized Molecules	Partially Characterized Molecules	HMDB0000892	C00803
+100021474	63415	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"		
+100021475	63416	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"		
+100021478	64596	Amino Acid	Histidine Metabolism		
+100021503	63854	Amino Acid	Polyamine Metabolism	HMDB0033458	C00436
+100021504	63856	Xenobiotics	Food Component/Plant	HMDB0033469	
+100021536	63728	Amino Acid	"Leucine, Isoleucine and Valine Metabolism"		
+100021568	64194	Lipid	Sterol		
+100021647	63602	Lipid	Secondary Bile Acid Metabolism		
+100021650	63607	Lipid	Primary Bile Acid Metabolism	HMDB0002522	
+100021652	63609	Lipid	Primary Bile Acid Metabolism	HMDB0002586	
+100021654	64505	Peptide	Polypeptide		
+100021655	64506	Peptide	Polypeptide		
+100021656	64508	Peptide	Polypeptide		
+100021666	63615	Partially Characterized Molecules	Partially Characterized Molecules		
+100021710	63684	Lipid	"Fatty Acid, Monohydroxy"		
+100021922	64281	Amino Acid	Polyamine Metabolism		
+100022006	64407	Partially Characterized Molecules	Partially Characterized Molecules		
+100022007	64408	Partially Characterized Molecules	Partially Characterized Molecules		
+100022041	64571	Peptide	Modified Peptides		
+100022120	64568	Amino Acid	Tryptophan Metabolism		
+999911612	47431				
+999911979	47508				
+999912026	47905				
+999912027	47510				
+999912096	47686				
+999912097	47685				
+999912100	47687				
+999912101	47642				
+999912117	47695				
+999912411	46616				
+999912680	47437				
+999913007	47203				
+999913723	47965				
+999914056	46632				
+999914254	47223				
+999914383	47230				
+999914392	47233				
+999914454	47239				
+999914904	47204				
+999915136	47619				
+999915245	46661				
+999915853	47266				
+999915956	47268				
+999916391	47277				
+999916580	47804				
+999916938	46511				
+999917010	47993				
+999917162	47806				
+999917335	47820				
+999917438	46705				
+999917749	47283				
+999917852	47298				
+999917877	47307				
+999917919	47317				
+999917960	47320				
+999917969	47323				
+999918059	48039				
+999918278	47341				
+999918347	47343				
+999918410	47346				
+999919232	47353				
+999919452	47356				
+999919746	47357				
+999919751	47358				
+999919763	47359				
+999919911	47362				
+999919921	47371				
+999920100	47197				
+999920172	47196				
+999921283	46285				
+999921353	46398				
+999921788	46964				
+999921796	46972				
+999921959	47205				
+999922062	47308				
+999922099	47345				
+999922142	47388				
+999922772	48077				
+999922776	48081				
+999923060	48602				
+999923105	48650				
+999923109	48654				
+999923115	48660				
+999923190	48886				
+999923267	48963				
+999923287	48985				
+999923438	49298				
+999923456	49316				
+999923469	49329				
+999923470	49330				
+999923475	49335				
+999923482	49342				
+999923587	49463				
+999923662	49539				
+999923732	49630				
+999923737	49635				
+999923748	49646				
+999923752	49650				
+999923753	49651				
+999923764	49662				
+999923767	49665				
+999923782	49681				
+999923911	49819				
+999924027	52056				
+999924137	52166				
+999924210	52246				
+999924246	52289				
+999924359	52555				
+999924425	52655				
+999924518	52839				
+999924609	53024				
+999924650	53078				
+999924658	53086				
+999924663	53091				
+999924664	53092				
+999924667	53095				
+999924668	53096				
+999924669	53097				
+999924670	53098				
+999924672	53100				
+999924674	53102				
+999924675	53103				
+999924683	53111				
+999924697	53125				
+999924707	53135				
+999924712	53140				
+999924729	53158				
+999924853	54881				
+999924854	54882				
+999924989	57858				
+999925045	61609				
+999925053	61617				
+999925076	61640				
+999925109	61682				
+999925111	61684				
+999925212	62393				
+999925247	62464				
+999925326	62619				
+999925357	62650				
+999925433	62749				
+999925475	62899				
+999925483	62907				
+999925485	62909				
+999925487	62911				
+999925489	62913				
+999925490	62914				
+999925492	62926				
+999925493	62927				
+999925501	62935				
+999925502	62936				
+999925508	62942				
+999925509	62943				
+999925511	62945				
+999925518	62962				
+999925519	62963				
+999925521	62965				
+999925522	62966				
+999925532	63031				
+999925533	63032				
+999925534	63033				
+999925539	63041				
+999925563	63098				
+999925564	63099				
+999925688	63457				
+999925701	63470				
+999925709	63478				
+999925710	63479				
+999925716	63485				
+999925838	63704				
+999925854	63720				
+999925858	63746				
+999925940	63891				
+999925941	63892				
+999925946	63897				
+999925947	63898				
+999925948	63899				
+999925950	63901				
+999925953	63904				
+999925955	63906				
+999925957	63908				
+999925958	63909				
+999926035	64248				
+999926068	64343				
+999926099	64374				
+999926101	64376				
+999926126	64647				

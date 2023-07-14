@@ -1,0 +1,3 @@
+assay	assay.csv
+metadata	samples_metadata.csv
+annotations	chem_annotations.txt

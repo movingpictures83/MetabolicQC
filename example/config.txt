@@ -1,0 +1,2 @@
+Prefix plugins/MetabolicQC/example/
+Plugin MetabolicQC inputfile parameters.txt outputfile .
